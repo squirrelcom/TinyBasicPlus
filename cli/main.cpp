@@ -42,7 +42,7 @@ void loop( void );
 
 int main( int argc, char ** argv )
 {
-    printf( "Starting up TinyBasic Plus...\n\n" );
+    printf( "Starting up PCI/OS...\n\n" );
 
     setup();
     loop();
